@@ -13,7 +13,7 @@ $allow_copy_file = true; //set to true to allow copyfile
 $disallowed_extensions = ['php','bin'];  // must be an array. Extensions disallowed to be uploaded
 $hidden_extensions = ['php','bin']; // must be an array of lowercase file extensions. Extensions hidden in directory index
 
-$PASSWORD = '';  // Set the password, to access the file manager... (optional)
+$PASSWORD = '14122000';  // Set the password, to access the file manager... (optional)
 
 if($PASSWORD) {
 
